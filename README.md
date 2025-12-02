@@ -77,6 +77,6 @@ endmodule
 
 ---
 
-## 📂 專案文件
+## 專案文件
 * [Verilog 原始碼 (finalproject.v)](./src/finalproject.v)
 * [專案簡報 (Project_Presentation.pptx)](./docs/Project_Presentation.pdf)
